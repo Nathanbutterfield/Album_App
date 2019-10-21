@@ -10,4 +10,4 @@ deploy:
   skip_cleanup: true
   provider: firebase
   token: $FIREBASE_TOKEN
-  project: todo-aa992
+  project: album-a01d3
